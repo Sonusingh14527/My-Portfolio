@@ -1,0 +1,135 @@
+.intro{
+    background-color: #80BCBD;
+}
+
+.nvbar{
+    background-color: #F5DD61;
+}
+
+
+.motivation{
+    background-color: #87A922;
+}
+
+div .lead{
+    font-size: 25px;
+}
+
+.home-first{
+    background-color: #FFD18E ;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+
+.town{
+    background-color:#F5DD61;
+    font-family:cursive;
+}
+
+.college{
+    background-color: #BBE2EC ;
+    }
+
+.hobby{
+    font-family:cursive;
+}    
+
+.card-body{
+    background-color: #FFAF45;
+}
+
+/* 
+// Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) { 
+    .main{
+     display: block;
+    }
+    
+
+}
+
+.myhead{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+
+}
+
+.mydetail{
+    background-color: #D74B76 ;
+    border: 5px solid black;
+    border-radius: 20px;
+    font-family: monospace;
+}
+
+.strength{
+    background-color: #FFAF45;
+    box-shadow: 8px 12px black;
+}
+
+.weakness{
+    background-color: #FFF455;
+    box-shadow: 8px 12px black;
+}
+
+
+.contact{
+    background-color: #0766AD ;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.connect{
+
+    background-color: #FFE31A ;
+}
+
+.contactme{
+    background-color: #789461 ;
+}
+
+.header{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: cadetblue;
+}
+
+.main-softskill{
+    background-color:blue ;
+}
+
+.list-item{
+    background-color: green;
+    box-shadow: 8px 12px black;
+}
+
+.mylist{
+    list-style-type:square;
+    font-weight: bold;
+    font-size: x-large;
+    font-family:monospace;
+}
+
+@media (max-width: 576px) { 
+    .main-softskill{
+     display: block;
+    }
+    
+
+}
+
+footer {
+    font-size: 0.9rem;
+    background-color: #333; /* Darker shade for better contrast */
+    color: #ccc; /* Subtle text color */
+}
+
+footer a {
+    color: #fff;
+    text-decoration: none;
+}
+
+footer a:hover {
+    color: #F5DD61; /* Accent color */
+}
+
+footer .btn {
+    font-size: 0.8rem;
+}
+
